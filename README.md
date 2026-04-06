@@ -35,3 +35,5 @@ This project is an interactive sales dashboard created in Microsoft Excel. It he
 ## 👨‍💻 Author
 Vishal Kumar
 Aspiring Data Analyst
+
+<img src = "https://github.com/vishal843325/superstore-sales-dashboard-excel/blob/9c0dfc4c5eaca055f336562e21560118caa260ee/Superstore_Dashboard.png" alt="Image Description" width="600">
